@@ -1,7 +1,7 @@
 # Estudos
 
 ## PHP
-1. [Primeiros Passos](/thisudre/php-primeiros_passos)
+1. [Primeiros Passos](https://github.com/thisudre/php-primeiros_passos)
 1. [Avançado](github.com/thisudre/php-avancado)
 1. [Orientação a objetos](github.com/thisudre/php-orientacao_a_objetos)
 1. [Banco de dados com PDO](github.com/thisudre/php-pdo)
