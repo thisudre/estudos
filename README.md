@@ -6,6 +6,7 @@
 1. [Orientação a objetos](https://github.com/thisudre/php-orientacao_a_objetos)
 1. [Banco de dados com PDO](https://github.com/thisudre/php-pdo)
 1. [Banco de dados com Doctrine](https://github.com/thisudre/php-doctrine)
+1. [MVC usando PHP](https://github.com/thisudre/php-mvc)
 
 ## Javascript
 1. [Orientação a objetos](https://github.com/thisudre/js-orientacao_a_objetos)
